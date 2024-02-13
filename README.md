@@ -32,3 +32,4 @@
 
 <h1> Site do jogo </h1>
 <p> Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
+https://kaillain.github.io/Jogo-da-Memoria/
